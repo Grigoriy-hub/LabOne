@@ -4,5 +4,6 @@ class MyFirstClass {
  	System.out.println(s[i]);
 
         }
+        }
 
 }
